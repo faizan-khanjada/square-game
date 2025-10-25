@@ -54,4 +54,4 @@ Each square reacts differently to mouse movements and clicks — making it a sim
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/square-game.git
+   git clone https://github.com/faizan-khanjada/square-game.git
